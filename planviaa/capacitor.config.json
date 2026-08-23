@@ -1,0 +1,8 @@
+{
+  "appId": "com.erysh.planvia",
+  "appName": "Planvia",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  }
+}
